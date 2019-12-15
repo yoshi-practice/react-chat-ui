@@ -1,7 +1,7 @@
 import React from 'react';
-import './Tweet.css';
+import './Tweet.scss';
 
-function Tweet(props) {
+function Tweet(propss) {
   return (
     <div className="tweet">
       <div className="icon-container">{props.icon}</div>
