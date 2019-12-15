@@ -20,7 +20,11 @@ function App() {
   //       content="かにみそたべたい"
   //     />
   //   </div>
-  return(<Tweet name="yoshi" content="Hello!"/>
+    return(
+      <div>
+        <Tweet name="yoshi" content="Hello!"/>
+        <Tweet name="manji" content="sample data"/>
+      </div>
   );
 }
 
