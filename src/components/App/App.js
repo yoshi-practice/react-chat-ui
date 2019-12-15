@@ -1,7 +1,7 @@
 import * as React from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import Tweet from './Tweet';
+import Tweet from '../Tweet/Tweet';
 
 function App() {
   return (
